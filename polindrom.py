@@ -32,4 +32,5 @@ def is_palindrome(s):
     return True
 print(is_palindrome("A man, a plan, a canal: Panama"))
 print(is_palindrome("Racecar"))
+print(is_palindrome("а роза упала на лапу Азора"))
 print(is_palindrome("Hello, World!"))
